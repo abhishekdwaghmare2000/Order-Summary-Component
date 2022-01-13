@@ -31,8 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://abhishekdwaghmare2000.github.io/Order-Summary-Component/)
 
 ## My process
 
@@ -50,7 +49,6 @@ Users should be able to:
 ### What I learned
 
 - In this project, I learned how to create a card and in this I faced difficulty in positioning elements and resolved it and learned about it.
-- still facing problem, in responsive desigening in mobile responsiveness.
 - I learned how to make image all over the page by covering.
 
 
@@ -68,4 +66,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Abhishek Waghmare](https://www.your-site.com)
+- Website - [Abhishek Waghmare](https://abhishekdwaghmare2000.github.io/Order-Summary-Component/)
