@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card solution
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).  
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-componet-webpage-xgZ8OSLuZ).  
 
 ## Table of contents
 
@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://abhishekdwaghmare2000.github.io/Order-Summary-Component/)
+- Live Site URL: [Order Summary Component](https://abhishekdwaghmare2000.github.io/Order-Summary-Component/)
 
 ## My process
 
