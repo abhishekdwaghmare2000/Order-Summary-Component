@@ -92,3 +92,30 @@ body{
     color: black;
     font-weight: bold;
 }
+
+@media screen  and (min-width: 375px) and (max-width:1024px){
+    .card{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        width: 375px;
+        height: 580px;
+        margin-left: 30%;
+        margin-right: 20%;
+    }
+}
+
+@media screen  and (min-width: 375px) and (max-width:1180px){
+    .card{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        width: 375px;
+        height: 580px;
+        margin-left: 20%;
+        margin-right: 20%;
+        margin-top: 20px;
+    }
+}
